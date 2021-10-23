@@ -13,4 +13,5 @@ public class GreetingController {
         model.put("message", "Hello Bryan");
         return "greeting";
     }
+
 }
